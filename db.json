@@ -1,0 +1,1373 @@
+{
+  "gameslider": [
+    {
+      "id": "1",
+      "url": "/public/images/slider/riseoftheronin.webp",
+      "logo": "/public/images/slider/riseoftheroninlogo.webp",
+      "mobile": "/public/images/slider/riseoftheroninMobile.webp",
+      "title": "Forge Your Fate",
+      "description": "Embark on a epic journey accross war town 19th century japan in this new combact focused open worls action RPG"
+    },
+    {
+      "id": "2",
+      "url": "/public/images/slider/dragonsdogmahero.webp",
+      "logo": "/public/images/slider/dragonsdogmalogo.webp",
+      "mobile": "/public/images/slider/dragonsdogmaMobile.webp",
+      "title": "Set Forth Arisen",
+      "description": "Dragon's Drogma 2 is out now. Embark on a grand adventure in a deep, explorable fantasy world"
+    },
+    {
+      "id": "3",
+      "url": "/public/images/slider/helldivers2hero.webp",
+      "logo": "/public/images/slider/helldivers2logo.webp",
+      "mobile": "/public/images/slider/helldivers2mobile.webp",
+      "title": "The Galexy's Last Line Of Offence",
+      "description": "Embark on a epic journey accross war town 19th century japan in this new combact focused open worls action RPG"
+    },
+    {
+      "id": "7",
+      "url": "/public/images/games/apexlegend/apex-legends-hero.webp",
+      "logo": "/public/images/games/apexlegend/Apex-Legends-logo.webp",
+      "mobile": "/public/images/games/apexlegend/apex-legends-hero-mobile.webp",
+      "title": "Sea Of Thieves",
+      "description": "Embark on a epic journey accross war town 19th century japan in this new combact focused open worls action RPG"
+    },
+    {
+      "id": "5",
+      "url": "/public/images/slider/TFShero.webp",
+      "logo": "/public/images/slider/TFSlogo.webp",
+      "mobile": "/public/images/slider/TFSmobile.webp",
+      "title": "Become Legend",
+      "description": "Embark on a epic journey accross war town 19th century japan in this new combact focused open worls action RPG"
+    },
+    {
+      "id": "8",
+      "url": "/public/images/games/seaofthieves/sea-of-thieves-hero.webp",
+      "logo": "/public/images/games/seaofthieves/sea-of-thieves-logo.webp",
+      "mobile": "/public/images/games/seaofthieves/sea-of-thieves-hero-mobile.webp",
+      "title": "Become Legend",
+      "description": "Embark on a epic journey accross war town 19th century japan in this new combact focused open worls action RPG"
+    }
+  ],
+  "games": [
+    {
+      "id": "1",
+      "name": "rise of ronin",
+      "thumbnail": "/images/games/ronin/rise-of-the-ronin-thumbnail.webp",
+      "herotype": "video",
+      "hero": "/videos/ronin/rise-of-the-ronin-banner-desktop.mp4",
+      "heroMobile": "/public/videos/ronin/rise-of-the-ronin-banner-mobile.mp4",
+      "review": 4.1,
+      "price": 40,
+      "releasedDate": "22/02/2024",
+      "generes": "action,adventure",
+      "platform": "PS5,XBOX,PC",
+      "players": "Single Player",
+      "onlineSupport": true
+    },
+    {
+      "id": "2",
+      "name": "Dragons dogma 2",
+      "thumbnail": "/images/games/dragonsDogma2/dragons-dogma-2-thumbnail.webp",
+      "herotype": "image",
+      "hero": "/images/games/dragonsDogma2/dragonsdogmahero.webp",
+      "heroMobile": "/images/games/dragonsDogma2/dragonsdogmaMobile.webp",
+      "review": 4.23,
+      "price": 50,
+      "releasedDate": "22/03/2024",
+      "generes": "action,role playing",
+      "platform": "PS5,XBOX",
+      "players": "Single Player",
+      "onlineSupport": true
+    },
+    {
+      "id": "3",
+      "name": "HellDrivers 2",
+      "thumbnail": "/images/games/helldrivers2/helldivers-2-thumbnail.webp",
+      "herotype": "image",
+      "hero": "/images/games/helldrivers2/helldivers2hero.webp",
+      "heroMobile": "/images/games/helldrivers2/helldivers2mobile.webp",
+      "review": 3.89,
+      "price": 18,
+      "releasedDate": "22/07/2024",
+      "generes": "action,shooting,space",
+      "platform": "XBOX,PC",
+      "players": "Multi Player",
+      "onlineSupport": true
+    },
+    {
+      "id": "4",
+      "name": "final fantasy",
+      "thumbnail": "public/images/games/finalfantasy/final-fantasy-xvi-thumbnail.webp",
+      "herotype": "image",
+      "hero": "/images/games/finalfantasy/final-fantasy-7-rebirth-hero.webp",
+      "heroMobile": "/images/games/finalfantasy/final-fantasy-7-rebirth-mobile.png",
+      "review": 4.74,
+      "price": 100,
+      "releasedDate": "29/02/2022",
+      "generes": "role playing",
+      "platform": "PS5,xbox,vr",
+      "players": "Single Player",
+      "onlineSupport": true
+    },
+    {
+      "id": "5",
+      "name": "The Final Shape 2",
+      "thumbnail": "/images/games/thefinalshape/TFSmobile.webp",
+      "herotype": "image",
+      "hero": "/images/games/thefinalshape/TFShero.webp",
+      "heroMobile": "/images/games/thefinalshape/TFSmobile.webp",
+      "review": 2.9,
+      "price": 15,
+      "releasedDate": "4/06/2024",
+      "generes": "shooting,space",
+      "platform": "PC,Mobile",
+      "players": "Single Player",
+      "onlineSupport": false
+    },
+    {
+      "id": "6",
+      "name": "god of war ragnarok",
+      "thumbnail": "/images/games/godofwar/god-of-war-ragnarok-thumbnail.webp",
+      "herotype": "video",
+      "hero": "/videos/godofwar/god-of-war-raganrok-hero.mp4",
+      "heroMobile": "/videos/godofwar/god-of-war-raganrok-hero.mp4",
+      "review": 2.9,
+      "price": 80,
+      "releasedDate": "9/11/2022",
+      "generes": "action,adventure",
+      "platform": "PS5,XBOX",
+      "players": "Single Player",
+      "onlineSupport": false
+    },
+    {
+      "id": "7",
+      "name": "apex legends",
+      "thumbnail": "/public/images/games/apexlegend/apex-legends-hero-mobile.webp",
+      "herotype": "image",
+      "hero": "/public/images/games/apexlegend/apex-legends-hero.webp",
+      "heroMobile": "/public/images/games/apexlegend/apex-legends-hero-mobile.webp",
+      "review": 3.9,
+      "price": 64,
+      "releasedDate": "6/11/2024",
+      "generes": "action,shooting,sports",
+      "platform": "PC,Mobile,PS5",
+      "players": "Multi Player",
+      "onlineSupport": false
+    },
+    {
+      "id": "8",
+      "name": "sea of thieves",
+      "thumbnail": "/public/images/games/seaofthieves/sea-of-thieves-hero-mobile.webp",
+      "herotype": "image",
+      "hero": "/public/images/games/seaofthieves/sea-of-thieves-hero.webp",
+      "heroMobile": "/public/images/games/seaofthieves/sea-of-thieves-hero-mobile.webp",
+      "review": 4.4,
+      "price": 84,
+      "releasedDate": "4/6/2024",
+      "generes": "adventure,survival",
+      "platform": "PC,Mobile,XBOX",
+      "players": "Multi Player",
+      "onlineSupport": true
+    }
+  ],
+  "gamesildes": [
+    {
+      "id": "1",
+      "slides": [
+        {
+          "type": "image",
+          "url": "/images/games/ronin/rise-of-the-ronin-screenshot-01.webp"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/embed/7FWud5FNcoc"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/ronin/rise-of-the-ronin-screenshot-02.webp"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/ronin/rise-of-the-ronin-screenshot-03.webp"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/embed/34FMSgdzzvI"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/ronin/rise-of-the-ronin-screenshot-04.webp"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/ronin/rise-of-the-ronin-screenshot-05.webp"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "slides": [
+        {
+          "type": "image",
+          "url": "/images/games/dragonsDogma2/dragons-dogma-2-screenshot01.webp"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/dragonsDogma2/dragons-dogma-2-screenshot02.webp"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/embed/cT0rIgaiPWA"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/dragonsDogma2/dragons-dogma-2-screenshot03.webp"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/dragonsDogma2/dragons-dogma-2-screenshot04.webp"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/dragonsDogma2/dragons-dogma-2-screenshot05.webp"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/dragonsDogma2/dragons-dogma-2-screenshot06.webp"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "slides": [
+        {
+          "type": "video",
+          "url": "/videos/helldrives2/helldivers-2-armor-video-block-01.mp4"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/helldrivers2/helldivers-2-screenshot-01.webp"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/embed/oD3pxbG9YYI"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/helldrivers2/helldivers-2-screenshot-02.webp"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/helldrivers2/helldivers-2-screenshot-03.webp"
+        },
+        {
+          "type": "video",
+          "url": "/videos/helldrives2/helldivers-2-video-block-02.mp4"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/helldrivers2/helldivers-2-screenshot-04.webp"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/embed/S9STizATKjE"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/helldrivers2/helldivers-2-screenshot-05.webp"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/helldrivers2/helldivers-2-screenshot-06.webp"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "slides": [
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/embed/C44_HrseDSs"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/godofwar/slide02.webp"
+        },
+        {
+          "type": "video",
+          "url": "/videos/godofwar/slide01.mp4"
+        },
+        {
+          "type": "image",
+          "url": "/images/games/godofwar/slide03.webp"
+        }
+      ]
+    }
+  ],
+  "aboutgames": [
+    {
+      "id": "1",
+      "url": "/images/games/ronin/rise-of-the-ronin-about.webp",
+      "name": "rise of ronin",
+      "title": "Forge YOUR FATE IN THIS EPIC New SAMURAI ACTION Adventure",
+      "description": "Embark on an epic journey across war-torn 19th-century Japan in this combat-focused open-world action RPG from Team NINJA, the veteran studio behind Nioh and NINJA GAIDEN. \n\n Japan, 1863. After three centuries of the Tokugawa Shogunate’s reign, the Black Ships of the West descend upon the nation’s borders and the country falls into a state of turmoil. Amidst the chaos of war, disease and political unrest, a nameless warrior forges their own path, holding the very fate of Japan in their hands."
+    },
+    {
+      "id": "2",
+      "url": "/images/games/dragonsDogma2/dragons-dogma-2-about.webp",
+      "name": "Dragons dogma 2",
+      "title": "A single-player, narrative-driven action-RPG that lets players choose their own experience.",
+      "description": "Embark upon your grand adventure, Arisen!\n\nChoose your Arisen's vocation and create your trusted main Pawn, before you set out into a pair of distinct kingdoms full of mystery, monsters and magick. Overcome giant foes by using strategy and cunning - the very land around you could be a weapon in waiting.\n\nThis long-awaited sequel to a cult classic adventure adds improved character customization, enhanced enemy intelligence, the latest physics technology and more to deliver a deep, explorable and truly immersive fantasy world."
+    },
+    {
+      "id": "3",
+      "url": "/images/games/helldrivers2/helldivers-2-about.webp",
+      "name": "HellDrivers 2",
+      "title": "FIGHT FOR FREEDOM ACROSS A HOSTILE GALAXY IN THIS FRENETIC THIRD-PERSON CO-OPERATIVE TEAM SHOOTER.",
+      "description": "Do you believe in freedom? Can you stand in the face of oppression – and defend the defenceless? Wage war for peace. Die for democracy.\n\nJoin forces with up to three friends and wreak havoc on an alien scourge threatening the safety of your home planet, Super Earth, in this multiplayer co-op shooter for PS5 and PC from Arrowhead Game Studios.\n\nStep into the boots of the Helldivers, an elite class of soldiers whose mission is to spread peace, liberty and Managed Democracy using the biggest, baddest and most explosive tools in the galaxy.\n\nHelldivers don't go planet side without proper backup, but it’s up to you to decide how and when to call it in. Not only do you have a host of superpowered primary weapons and customizable loadouts, you also have the ability to call on stratagems during play."
+    },
+    {
+      "id": "6",
+      "url": "/images/games/godofwar/about.webp",
+      "name": "god of war",
+      "title": "Embark on an epic and heartfelt journey as Kratos and Atreus struggle with holding on and letting go",
+      "description": "From Santa Monica Studio comes the sequel to the critically acclaimed God of War (2018). Fimbulwinter is well underway. Kratos and Atreus must journey to each of the Nine Realms in search of answers as Asgardian forces prepare for a prophesied battle that will end the world. Along the way they will explore stunning, mythical landscapes, and face fearsome enemies in the form of Norse gods and monsters. The threat of Ragnarök grows ever closer. Kratos and Atreus must choose between their own safety and the safety of the realms."
+    }
+  ],
+  "gamefeatures": [
+    {
+      "id": "1",
+      "name": "rise of ronin",
+      "title": "RISE OF THE RONIN KEY FEATURES",
+      "features": [
+        {
+          "type": "image",
+          "url": "/images/games/ronin/rise-of-the-ronin-feature01.webp",
+          "title": "Shape a dynamic story",
+          "description": "As a masterless samurai – a Ronin – your destiny is your own. See the story unfold in different ways depending on the choices you make and the characters you ally with along the way. Face critical mission decisions, like whether to assassinate or protect key figures, and shape the course of history through a rich multi-choice system."
+        },
+        {
+          "type": "image",
+          "url": "/images/games/ronin/rise-of-the-ronin-feature02.webp",
+          "title": "Explore an authentic world",
+          "description": "The “Bakumatsu” period heralds the end of the Shogunate as a new era begins and East and West collide. Experience this cultural revolution across an open world where you’ll meet the key figures who’ll shape the course of history, and the ordinary citizens seeking a guiding light in the darkness."
+        },
+        {
+          "type": "image",
+          "url": "/images/games/ronin/rise-of-the-ronin-feature03.webp",
+          "title": "Engage in deep accessible combat",
+          "description": "From the veteran developers of Nioh and NINJA GAIDEN, Rise of the Ronin offers deeply engaging yet accessible combat with layers of complexity suitable for any playstyle. Face your foes with a selection of close-quarters weaponry or engage from afar with authentic period firearms."
+        },
+        {
+          "type": "video",
+          "url": "/videos/ronin/rise-of-the-ronin-character-customization.mp4",
+          "title": "Character customization",
+          "description": "Before your journey begins, you’ll be able to customize your character. From their facial features, hair, and makeup to their body shape and voice, your warrior – your Veiled Edge – is yours to create. Note that as you progress through the story, you’ll acquire new clothing and gear to customize their appearance further."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "dragon dogma",
+      "title": "Dragon's Dogma 2 key features",
+      "features": [
+        {
+          "type": "image",
+          "url": "/images/games/dragonsDogma2/dragons-dogma-2-feature01.webp",
+          "title": "Refined character creation options",
+          "description": "Dragon's Dogma 2's character creation options are significantly improved from the original game, and players can customise both their Arisen avatar and their main Pawn."
+        },
+        {
+          "type": "image",
+          "url": "/images/games/dragonsDogma2/dragons-dogma-2-feature02.webp",
+          "title": "Two distinct and dangerous kingdoms",
+          "description": "The Arisen will need to navigate the kingdoms of Vermund and Battahl, both of which are threatened by the Dragon. Each territory treats the Arisen differently, and it's vital to understand your place in these societies."
+        },
+        {
+          "type": "image",
+          "url": "/images/games/dragonsDogma2/dragons-dogma-2-feature03.webp",
+          "title": "Sharpened enemy intelligence",
+          "description": "Dragon's Dogma 2 features cutting-edge combat where enemies will learn your tricks and react to them. But you can also exploit their weaknesses, and use the environment to your advantage against mighty foes."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "HELLDIVERS 2",
+      "titlt": "DIVE INTO FREEDOM",
+      "features": [
+        {
+          "type": "video",
+          "url": "/videos/helldrives2/helldivers-2-feature01.mp4",
+          "title": "Fight for Super Earth!",
+          "description": "Freedom. Peace. Managed Democracy. Your Super Earth-born rights. The key pillars of our civilization are under attack from deadly alien creatures conspiring to destroy your planet and its values.\n\nThe Helldivers must take on the role of peacekeepers in this Galactic War and protect their home planet, spread the message of Democracy and repel the hostiles by force."
+        },
+        {
+          "type": "video",
+          "url": "/videos/helldrives2/helldivers-2-feature02.mp4",
+          "title": "Wield overpowered weapons!",
+          "description": "Decide how to take down each enemy surge using a multitude of offensive and defensive tools. \n\n Need to take out a massive onslaught of Terminids in one go? Call in a hellpod drop a 500KG bomb, leaving behind only liberated bug corpses. Need to lay down a defensive perimeter? Bring in an Anti-Personnel Mine Deployer to boobytrap the battlefield. \n\n As you complete missions, you can upgrade your ship and build an even more impressive arsenal. Everything from shield generators, to turrets, to large-scale airstrikes can be used to give your team the upper-hand."
+        },
+        {
+          "type": "video",
+          "url": "/videos/helldrives2/helldivers-2-feature03.mp4",
+          "title": "Aim carefully!",
+          "description": "They say everything is better with friends, especially when it comes to raining destruction down on the enemies of Liberty! Be warned though: for maximum challenge and collaboration, friendly fire is always on. Communicate with your squad mates and make sure your arsenal only takes down your adversaries."
+        },
+        {
+          "type": "video",
+          "url": "/videos/helldrives2/helldivers-2-feature04.mp4",
+          "title": "Invest in Warbonds!",
+          "description": "Buy Super Credits (your virtual in-game currency) from the in-game “acquisitions ” store or PlayStation Store.\n\n Head in-game and browse the Warbond catalogues – check out all that gear you could unlock.\n\nBuy your Warbond of choice with your purchased Super Credits.\n\nComplete missions to earn Medals (your in-game reward currency)."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "god of war",
+      "titlt": "THE NORSE SAGA CONTINUES",
+      "features": [
+        {
+          "type": "video",
+          "url": "/videos/godofwar/feature03.mp4",
+          "title": "A future, unwritten",
+          "description": "Atreus seeks knowledge to help him understand the prophecy of “Loki” and establish his role in Ragnarök. Kratos must decide whether he will be chained by the fear of repeating his mistakes or break free of his past to be the father Atreus needs."
+        },
+        {
+          "type": "image",
+          "url": "/images/games/godofwar/feature02.webp",
+          "title": "Explore vast realms",
+          "description": "Journey through dangerous and stunning landscapes while facing a wide variety of enemy creatures, monsters and Norse gods as Kratos and Atreus search for answers."
+        },
+        {
+          "type": "image",
+          "url": "/images/games/godofwar/feature01.webp",
+          "title": "Stunning visuals",
+          "description": "Switch between full 4K resolution at a targeted 30 frames per second, or dynamic resolution upscaled to 4K at a targeted 60fps.* Bask in the beautiful worlds you travel through, brought to life by stunning art direction and arresting attention to detail"
+        }
+      ]
+    }
+  ],
+  "gameCharacters": [
+    {
+      "id": "1",
+      "title": "FACTIONS OF THE BAKUMATSU ERA",
+      "characters": [
+        {
+          "name": "NAOSUKE",
+          "url": "/images/games/ronin/rise-of-the-ronin-character01.webp"
+        },
+        {
+          "name": "TAKA MURAYAMA",
+          "url": "/images/games/ronin/rise-of-the-ronin-character02.webp"
+        },
+        {
+          "name": "KONDO ISAMI",
+          "url": "/images/games/ronin/rise-of-the-ronin-character03.webp"
+        },
+        {
+          "name": "RYOMA SAKAMOTO",
+          "url": "/images/games/ronin/rise-of-the-ronin-character04.webp"
+        },
+        {
+          "name": "KOGORO KATSURA",
+          "url": "/images/games/ronin/rise-of-the-ronin-character05.webp"
+        },
+        {
+          "name": "SHINSAKU TAKASUGI",
+          "url": "/images/games/ronin/rise-of-the-ronin-character06.webp"
+        },
+        {
+          "name": "MATTHEW PERRY",
+          "url": "/images/games/ronin/rise-of-the-ronin-character07.webp"
+        },
+        {
+          "name": "JULES BRUNET",
+          "url": "/images/games/ronin/rise-of-the-ronin-character08.webp"
+        },
+        {
+          "name": "ERNEST SATOW",
+          "url": "/images/games/ronin/rise-of-the-ronin-character09.webp"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "dargon drogma 2 characters",
+      "characters": [
+        {
+          "name": "ulrika",
+          "url": "/images/games/dragonsDogma2/character01.webp"
+        },
+        {
+          "name": "sven",
+          "url": "/images/games/dragonsDogma2/character02.webp"
+        },
+        {
+          "name": "willhemina",
+          "url": "/images/games/dragonsDogma2/character03.webp"
+        },
+        {
+          "name": "glyndwre",
+          "url": "/images/games/dragonsDogma2/character04.webp"
+        },
+        {
+          "name": "doireann",
+          "url": "/images/games/dragonsDogma2/character05.webp"
+        },
+        {
+          "name": "menella",
+          "url": "/images/games/dragonsDogma2/character06.webp"
+        },
+        {
+          "name": "Leon",
+          "url": "/images/games/dragonsDogma2/character07.webp"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "KNOW YOUR ENEMY",
+      "characters": [
+        {
+          "name": "Trooper",
+          "url": "/images/games/helldrivers2/helldivers-2-character01.webp"
+        },
+        {
+          "name": "Devastotar",
+          "url": "/images/games/helldrivers2/helldivers-2-character02.webp"
+        },
+        {
+          "name": "Hulk",
+          "url": "/images/games/helldrivers2/helldivers-2-character03.webp"
+        },
+        {
+          "name": "Tank",
+          "url": "/images/games/helldrivers2/helldivers-2-character04.webp"
+        },
+        {
+          "name": "DropShip",
+          "url": "/images/games/helldrivers2/helldivers-2-character05.webp"
+        },
+        {
+          "name": "Scavenger",
+          "url": "/images/games/helldrivers2/helldivers-2-character06.webp"
+        },
+        {
+          "name": "Warior",
+          "url": "/images/games/helldrivers2/helldivers-2-character07.webp"
+        },
+        {
+          "name": "Stalker",
+          "url": "/images/games/helldrivers2/helldivers-2-character08.webp"
+        },
+        {
+          "name": "Bile Sweper",
+          "url": "/images/games/helldrivers2/helldivers-2-character09.webp"
+        },
+        {
+          "name": "Bile Titan",
+          "url": "/images/games/helldrivers2/helldivers-2-character010.webp"
+        },
+        {
+          "name": "BroodCommander",
+          "url": "/images/games/helldrivers2/helldivers-2-character011.webp"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "KNOW YOUR ENEMY",
+      "characters": [
+        {
+          "name": "kratos",
+          "url": "/images/games/godofwar/characters-1.webp"
+        },
+        {
+          "name": "atreus",
+          "url": "/images/games/godofwar/characters-2.webp"
+        },
+        {
+          "name": "",
+          "url": "/images/games/godofwar/characters-3.webp"
+        },
+        {
+          "name": "",
+          "url": "/images/games/godofwar/characters-4.webp"
+        },
+        {
+          "name": "",
+          "url": "/images/games/godofwar/characters-5.webp"
+        },
+        {
+          "name": "",
+          "url": "/images/games/godofwar/characters-6.webp"
+        },
+        {
+          "name": "",
+          "url": "/images/games/godofwar/characters-7.webp"
+        },
+        {
+          "name": "",
+          "url": "/images/games/godofwar/characters-8.webp"
+        }
+      ]
+    }
+  ],
+  "gamefaq": [
+    {
+      "id": "1",
+      "url": "/images/games/ronin/rise-of-the-ronin-faq.webp",
+      "title": "RISE OF THE RONIN FAQS",
+      "faqs": [
+        {
+          "question": "Is Rise of the Ronin PS5 exclusive?",
+          "answer": "Yes. Rise of the Ronin is an exclusive game built for the PlayStation 5 console."
+        },
+        {
+          "question": "Is Rise of the Ronin open world?",
+          "answer": "Yes. Rise of the Ronin is an open-world action-adventure game developed by Team NINJA from Koei Tecmo Games. Delve into the historical period of late 19th century Japan, a time marked by profound conflicts and upheavals."
+        },
+        {
+          "question": "Does Rise of the Ronin feature online multiplayer?",
+          "answer": "Yes. Rise of the Ronin allows up to three players to experience the game’s story missions together in online co-op. Note that a PlayStation Plus membership is required to play online, and there is no PVP combat."
+        },
+        {
+          "question": "Is there a character creator feature in Rise of the Ronin?",
+          "answer": "Yes. You can freely customize your character’s visual features, including elements like their face and body shape, hair, voice and more."
+        },
+        {
+          "question": "Can I choose the difficulty of Rise of the Ronin?",
+          "answer": "Yes. Rise of the Ronin includes three difficulty modes: easy, normal and hard (referred to in-game as Dawn, Dusk and Twilight) that can be changed at any time. "
+        },
+        {
+          "question": "Is there a character creator feature in Rise of the Ronin?",
+          "answer": "Yes. You can freely customize your character’s visual features, including elements like their face and body shape, hair, voice and more."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "url": "/images/games/helldrivers2/helldivers-2-faq.webp",
+      "title": "HELLDIVERS 2 FAQS",
+      "faqs": [
+        {
+          "question": "Should I play the original Helldivers game first?",
+          "answer": "Well, Helldivers 2 isn’t the continuation of an on-going storyline, so you don’t need to have played the original game released back in 2015 – but we’d definitely recommend taking a look, as it scored very highly with critics."
+        },
+        {
+          "question": "Can I play Helldivers 2 on PS5 and PC?",
+          "answer": "You sure can. Helldivers 2 supports both cross-play features. This means you can team up with friends playing on PS5 or PC."
+        },
+        {
+          "question": "Can I play Helldivers 2 offline?",
+          "answer": "Helldivers 2 is an online multiplayer team shooter where you join a squad with up to three friends, so there is no offline or single player game mode."
+        },
+        {
+          "question": "Will Helldivers 2 include any post-launch add-on packs?",
+          "answer": "We are planning to bring you fresh seasonal content to continue your fight for galactic freedom. Stay tuned for details."
+        },
+        {
+          "question": "Are there in-game purchases in Helldivers 2?",
+          "answer": "You have the option to make in-game purchases for warbonds and other items"
+        }
+      ]
+    }
+  ],
+  "playonlinegames": [
+    {
+      "id": "1",
+      "name": "sandbox city",
+      "genre": "action,car,zombie,roleplaying,featured",
+      "image": "/images/playonline/sandbox-city.avif",
+      "video": "/videos/playonline/sandbox-city.mp4",
+      "link": "https://www.crazygames.com/game/sandbox-city---cars-zombies-ragdolls"
+    },
+    {
+      "id": "2",
+      "name": "racing limits",
+      "genre": "driving,simulation,car,racing,featured",
+      "image": "/images/playonline/racing-limits.avif",
+      "video": "/videos/playonline/racing-limits.mp4",
+      "link": "https://www.crazygames.com/game/racing-limits"
+    },
+    {
+      "id": "3",
+      "name": "bullet force",
+      "genre": "action,shooting",
+      "image": "/images/playonline/bulletForce.webp",
+      "video": "/videos/playonline/bulletforce.mp4",
+      "link": "https://www.crazygames.com/game/bullet-force-multiplayer"
+    },
+    {
+      "id": "4",
+      "name": "mr racer",
+      "genre": "driving,simulation,car,racing,featured",
+      "image": "/images/playonline/mrRacer.jpg",
+      "video": "/videos/playonline/mr-racer.mp4",
+      "link": "https://www.crazygames.com/game/mr-racer---car-racing"
+    },
+    {
+      "id": "5",
+      "name": "Stick war",
+      "genre": "action,featured",
+      "image": "/images/playonline/stick-war.jpg",
+      "video": "/videos/playonline/stick-war.mp4",
+      "link": "https://www.crazygames.com/game/stick-war"
+    },
+    {
+      "id": "6",
+      "name": "amazing spiderman",
+      "genre": "action,featured",
+      "image": "/images/playonline/amazing-spiderman.png",
+      "video": "/videos/playonline/amazing-spiderman.mp4",
+      "link": "https://www.crazygames.com/game/amazing-strange-rope-police-vice-spider"
+    }
+  ],
+  "users": [
+    {
+      "name": "Rajarshi Patel",
+      "email": "rajarshi0303@gmail.com",
+      "number": "09316583035",
+      "address": "201 madhav flat",
+      "city": "Vadodara, Gujarat, India",
+      "state": "Gujarat",
+      "zipcode": "22983",
+      "id": "4e7e"
+    },
+    {
+      "id": "3d1c",
+      "email": "rajarshi2002@gmail.com",
+      "password": "Rajarshi2002",
+      "name": ""
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Timely Watch",
+      "thumbnail": "/public/images/store/products/watch_thumbnail.png",
+      "category": "watch",
+      "brand": "apple",
+      "price": "19",
+      "oldprice": "30",
+      "tag": "sale",
+      "rating": "4.5",
+      "type": "smartwatch",
+      "variations": ["black", "#694D52", "#B94842"]
+    },
+    {
+      "id": "2",
+      "name": "HeadSet",
+      "thumbnail": "/public/images/store/products/headset_thumbnail.png",
+      "category": "headset",
+      "brand": "boat",
+      "price": "19",
+      "oldprice": "",
+      "tag": "20%off",
+      "rating": "4.7",
+      "variations": ["red", "blue"]
+    },
+    {
+      "id": "3",
+      "name": "TShirt",
+      "thumbnail": "/public/images/store/products/tshirt_thumbnail.png",
+      "category": "cloths",
+      "brand": "adidas",
+      "price": "19",
+      "oldprice": "",
+      "tag": "",
+      "rating": "3.8",
+      "variations": ["blue", "black"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "febric": "silk",
+      "clothing": "t-shirt"
+    },
+    {
+      "id": "4",
+      "name": "Ear buds",
+      "thumbnail": "/public/images/store/products/earbuds_thumnail.png",
+      "category": "headset",
+      "brand": "realme",
+      "price": "19",
+      "oldprice": "25",
+      "tag": "10% Off",
+      "rating": "4.1",
+      "variations": ["yellow"]
+    },
+    {
+      "id": "5",
+      "name": "Camers",
+      "thumbnail": "/public/images/store/products/product_04.png",
+      "category": "gaming",
+      "brand": "apple",
+      "price": "19",
+      "oldprice": "40",
+      "tag": "20% off",
+      "rating": "3.5",
+      "variations": ["white"]
+    },
+    {
+      "id": "6",
+      "name": "Controller",
+      "thumbnail": "/public/images/store/products/product_03.png",
+      "category": "gaming",
+      "brand": "samsung",
+      "price": "19",
+      "oldprice": "",
+      "tag": "",
+      "rating": "4.4",
+      "variations": ["white"]
+    },
+    {
+      "id": "7",
+      "name": "Play Station",
+      "thumbnail": "/public/images/store/products/product_01.png",
+      "category": "gaming",
+      "brand": "samsung",
+      "price": "19",
+      "oldprice": "",
+      "tag": "",
+      "rating": "3.9",
+      "variations": ["white"]
+    },
+    {
+      "id": "8",
+      "name": "Micro Max",
+      "thumbnail": "/public/images/store/products/product_02.png",
+      "category": "gaming",
+      "brand": "vivo",
+      "price": "19",
+      "oldprice": "40",
+      "tag": "out of stock",
+      "rating": "3.7",
+      "variations": ["white"]
+    },
+    {
+      "id": "9",
+      "name": "Rolex Gold",
+      "thumbnail": "/public/images/store/products/rolex_thumbnail.png",
+      "category": "watch",
+      "brand": "rolex",
+      "price": "23",
+      "oldprice": "30",
+      "tag": "sale",
+      "rating": "4.5",
+      "type": "analog",
+      "variations": ["#FFD700"]
+    },
+    {
+      "id": "10",
+      "name": "Hoody",
+      "thumbnail": "/public/images/store/products/hoody_tumbnail.png",
+      "category": "cloths",
+      "brand": "levis",
+      "price": "19",
+      "oldprice": "",
+      "tag": "",
+      "rating": "3.8",
+      "variations": ["black"],
+      "sizes": ["XS", "S", "M"],
+      "febric": "cotton",
+      "clothing": "hoody"
+    },
+    {
+      "id": "11",
+      "name": "Shirt",
+      "thumbnail": "/public/images/store/products/shirt_tumbnail.png",
+      "category": "cloths",
+      "brand": "levis",
+      "price": "19",
+      "oldprice": "",
+      "tag": "",
+      "rating": "3.8",
+      "variations": ["#003349", "#300B2A"],
+      "sizes": ["S", "M", "L"],
+      "febric": "polyester",
+      "clothing": "shirt"
+    },
+    {
+      "id": "12",
+      "name": "Track Pant",
+      "thumbnail": "/public/images/store/products/pant_tumbnail.png",
+      "category": "cloths",
+      "brand": "zara",
+      "price": "19",
+      "oldprice": "",
+      "tag": "",
+      "rating": "3.8",
+      "variations": ["gray"],
+      "sizes": ["L", "XL"],
+      "febric": "silk",
+      "clothing": "pant"
+    }
+  ],
+  "productfilters": [
+    {
+      "category": "watch",
+      "brands": ["apple", "rolex"],
+      "types": ["degital", "analog", "smartwatch"],
+      "id": "3422"
+    },
+    {
+      "category": "headset",
+      "brands": ["boat", "realme"],
+      "id": "23d0"
+    },
+    {
+      "category": "cloths",
+      "brands": ["adidas", "levis", "zara"],
+      "febrics": ["cotton", "silk", "polyester"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "clothings": ["t-shirt", "shirt", "hoody", "pant"],
+      "id": "8fb7"
+    },
+    {
+      "category": "gaming",
+      "brands": ["apple", "vivo", "samsung"],
+      "id": "4a5c"
+    }
+  ],
+  "productImages": [
+    {
+      "id": "1",
+      "tag": "sale",
+      "variations": [
+        {
+          "color": "black",
+          "images": [
+            "/public/images/products/watch/black_01.jpeg",
+            "/public/images/products/watch/black_02.jpeg",
+            "/public/images/products/watch/black_03.jpeg",
+            "/public/images/products/watch/black_04.jpeg",
+            "/public/images/products/watch/black_05.jpeg"
+          ]
+        },
+        {
+          "color": "#694D52",
+          "images": [
+            "/public/images/products/watch/copper_01.jpeg",
+            "/public/images/products/watch/copper_02.jpeg",
+            "/public/images/products/watch/copper_03.jpeg",
+            "/public/images/products/watch/copper_04.jpeg"
+          ]
+        },
+        {
+          "color": "#B94842",
+          "images": [
+            "/public/images/products/watch/orange_01.jpeg",
+            "/public/images/products/watch/orange_02.jpeg",
+            "/public/images/products/watch/orange_03.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "tag": "sale",
+      "variations": [
+        {
+          "color": "red",
+          "images": [
+            "/public/images/products/headset/red_01.jpeg",
+            "/public/images/products/headset/red_02.jpeg",
+            "/public/images/products/headset/red_03.jpeg",
+            "/public/images/products/headset/red_04.jpeg"
+          ]
+        },
+        {
+          "color": "blue",
+          "images": [
+            "/public/images/products/headset/blue_01.jpeg",
+            "/public/images/products/headset/blue_02.jpeg",
+            "/public/images/products/headset/blue_03.jpeg",
+            "/public/images/products/headset/blue_04.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "tag": "sale",
+      "variations": [
+        {
+          "color": "blue",
+          "images": [
+            "/public/images/products/tshirt/blue01.png",
+            "/public/images/products/tshirt/blue02.webp",
+            "/public/images/products/tshirt/blue03.png"
+          ]
+        },
+        {
+          "color": "black",
+          "images": ["/public/images/products/tshirt/black01.webp"]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "tag": "sale",
+      "variations": [
+        {
+          "color": "yellow",
+          "images": [
+            "/public/images/products/earbuds/yellow_01.jpeg",
+            "/public/images/products/earbuds/yellow_02.jpeg",
+            "/public/images/products/earbuds/yellow_03.jpeg",
+            "/public/images/products/earbuds/yellow_04.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "tag": "sale",
+      "variations": [
+        {
+          "color": "white",
+          "images": ["/public/images/store/products/product_04.png"]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "tag": "sale",
+      "variations": [
+        {
+          "color": "white",
+          "images": ["/public/images/store/products/product_03.png"]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "tag": "20% off",
+      "variations": [
+        {
+          "color": "white",
+          "images": ["/public/images/store/products/product_01.png"]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "tag": "sale",
+      "variations": [
+        {
+          "color": "white",
+          "images": ["/public/images/store/products/product_02.png"]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "tag": "",
+      "variations": [
+        {
+          "color": "#FFD700",
+          "images": [
+            "/public/images/products/watch/rolex_01.jpeg",
+            "/public/images/products/watch/rolex_02.jpeg",
+            "/public/images/products/watch/rolex_03.jpeg",
+            "/public/images/products/watch/rolex_04.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "tag": "",
+      "variations": [
+        {
+          "color": "black",
+          "images": ["/public/images/products/cloths/hoody.jpeg"]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "tag": "",
+      "variations": [
+        {
+          "color": "#003349",
+          "images": ["/public/images/products/cloths/sirt_blue.jpeg"]
+        },
+        {
+          "color": "#300B2A",
+          "images": ["/public/images/products/cloths/shirt_prurple.jpeg"]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "tag": "",
+      "variations": [
+        {
+          "color": "gray",
+          "images": ["/public/images/products/cloths/pants.jpeg"]
+        }
+      ]
+    }
+  ],
+  "productSpecifications": [
+    {
+      "id": "1",
+      "productId": "1",
+      "specifications": [
+        {
+          "specificationtype": "general",
+          "items": [
+            {
+              "title": "Sales Package",
+              "description": "Watch Head, Watch Strap, Charging Cable, Quick Start Guide, Product Manual"
+            },
+            {
+              "title": "Model Number",
+              "description": "38086PP01"
+            },
+            {
+              "title": "Dial Shape",
+              "description": "Rectangle"
+            },
+            {
+              "title": "Strap Material",
+              "description": "Silicone"
+            },
+            {
+              "title": "Usage",
+              "description": "Fitness & Outdoor"
+            }
+          ]
+        },
+        {
+          "specificationtype": "Product Details",
+          "items": [
+            {
+              "title": "Battery Type",
+              "description": "Lithium Polymer"
+            },
+            {
+              "title": "Charge Time",
+              "description": "60 min"
+            },
+            {
+              "title": "Notification Type",
+              "description": "Ring and Vibration"
+            },
+            {
+              "title": "Other Features",
+              "description": "1.96 Super AMOLED Display with 410 x 502 High Pixel Resolution, SingleSync BT Calling, 110+ Multisports, Sleep Monitor with REM Sleep, Auto Stress Monitor, 24*7 HRM, SpO2, Women's Health, Music & Camera Control, In-Built Alarm, Stopwatch & Timer, In-Built Games, Multiple Menu Styles, IP68 Water Resistance, 200+ Watchfaces, 7 Days Battery"
+            }
+          ]
+        },
+        {
+          "specificationtype": "Camera and Display Features",
+          "items": [
+            {
+              "title": "Display Resolution",
+              "description": "410 x 502 Pixels"
+            },
+            {
+              "title": "Display Size",
+              "description": "49.78 mm"
+            },
+            {
+              "title": "Display Type",
+              "description": "Super AMOLED"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "gameCart": [
+    {
+      "id": "258b",
+      "userId": "3d1c",
+      "gameId": "3",
+      "thumbnail": "/images/games/helldrivers2/helldivers-2-thumbnail.webp",
+      "name": "HellDrivers 2",
+      "genres": "action,shooting,space",
+      "platform": "XBOX,PC",
+      "price": 18
+    },
+    {
+      "id": "4d0f",
+      "userId": "3d1c",
+      "gameId": "5",
+      "thumbnail": "/images/games/thefinalshape/TFSmobile.webp",
+      "name": "The Final Shape 2",
+      "genres": "shooting,space",
+      "platform": "PC,Mobile",
+      "price": 15
+    },
+    {
+      "id": "cecd",
+      "userId": "4e7e",
+      "gameId": "2",
+      "thumbnail": "/images/games/dragonsDogma2/dragons-dogma-2-thumbnail.webp",
+      "name": "Dragons dogma 2",
+      "genres": "action,role playing",
+      "platform": "PS5,XBOX",
+      "price": 50
+    },
+    {
+      "id": "88f2",
+      "userId": "4e7e",
+      "gameId": "1",
+      "thumbnail": "/images/games/ronin/rise-of-the-ronin-thumbnail.webp",
+      "name": "rise of ronin",
+      "genres": "action,adventure",
+      "platform": "PS5,XBOX,PC",
+      "price": 40
+    }
+  ],
+  "productCart": [
+    {
+      "id": "7ef2",
+      "userId": "3d1c",
+      "productId": "9",
+      "thumbnail": "/public/images/store/products/rolex_thumbnail.png",
+      "name": "Rolex Gold",
+      "brand": "rolex",
+      "price": "23",
+      "oldprice": "30",
+      "color": "#FFD700",
+      "size": null,
+      "count": 1
+    },
+    {
+      "id": "ebac",
+      "userId": "3d1c",
+      "productId": "10",
+      "thumbnail": "/public/images/store/products/hoody_tumbnail.png",
+      "name": "Hoody",
+      "brand": "levis",
+      "price": "19",
+      "oldprice": "",
+      "color": "black",
+      "size": null,
+      "count": 1
+    },
+    {
+      "id": "0e23",
+      "userId": "4e7e",
+      "productId": "1",
+      "thumbnail": "/public/images/store/products/watch_thumbnail.png",
+      "name": "Timely Watch",
+      "brand": "apple",
+      "price": "19",
+      "oldprice": "30",
+      "color": "black",
+      "size": null,
+      "count": 2
+    }
+  ],
+  "playOnlineLibrary": [
+    {
+      "id": "321e",
+      "userId": "4e7e",
+      "gameId": "2",
+      "name": "racing limits",
+      "image": "/images/playonline/racing-limits.avif",
+      "video": "/videos/playonline/racing-limits.mp4",
+      "link": "https://www.crazygames.com/game/racing-limits"
+    },
+    {
+      "id": "6a3b",
+      "userId": "4e7e",
+      "gameId": "1",
+      "name": "sandbox city",
+      "image": "/images/playonline/sandbox-city.avif",
+      "video": "/videos/playonline/sandbox-city.mp4",
+      "link": "https://www.crazygames.com/game/sandbox-city---cars-zombies-ragdolls"
+    }
+  ],
+  "userOrders": [
+    {
+      "id": "89fa",
+      "userId": "4e7e",
+      "paymentType": "Payment done by credit card",
+      "total": 132.5,
+      "date": "Sat Jun 01 2024",
+      "orders": [
+        {
+          "id": "0903",
+          "userId": "4e7e",
+          "gameId": "1",
+          "thumbnail": "/images/games/ronin/rise-of-the-ronin-thumbnail.webp",
+          "name": "rise of ronin",
+          "genres": "action,adventure",
+          "platform": "PS5,XBOX,PC",
+          "price": 40
+        },
+        {
+          "id": "2c93",
+          "userId": "4e7e",
+          "gameId": "2",
+          "thumbnail": "/images/games/dragonsDogma2/dragons-dogma-2-thumbnail.webp",
+          "name": "Dragons dogma 2",
+          "genres": "action,role playing",
+          "platform": "PS5,XBOX",
+          "price": 50
+        },
+        {
+          "id": "0e23",
+          "userId": "4e7e",
+          "productId": "1",
+          "thumbnail": "/public/images/store/products/watch_thumbnail.png",
+          "name": "Timely Watch",
+          "brand": "apple",
+          "price": "19",
+          "oldprice": "30",
+          "color": "black",
+          "size": null,
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "76b4",
+      "userId": "4e7e",
+      "paymentType": "cash on delivery",
+      "total": 132.5,
+      "date": "Sat Jun 01 2024",
+      "orders": [
+        {
+          "id": "0903",
+          "userId": "4e7e",
+          "gameId": "1",
+          "thumbnail": "/images/games/ronin/rise-of-the-ronin-thumbnail.webp",
+          "name": "rise of ronin",
+          "genres": "action,adventure",
+          "platform": "PS5,XBOX,PC",
+          "price": 40
+        },
+        {
+          "id": "2c93",
+          "userId": "4e7e",
+          "gameId": "2",
+          "thumbnail": "/images/games/dragonsDogma2/dragons-dogma-2-thumbnail.webp",
+          "name": "Dragons dogma 2",
+          "genres": "action,role playing",
+          "platform": "PS5,XBOX",
+          "price": 50
+        },
+        {
+          "id": "0e23",
+          "userId": "4e7e",
+          "productId": "1",
+          "thumbnail": "/public/images/store/products/watch_thumbnail.png",
+          "name": "Timely Watch",
+          "brand": "apple",
+          "price": "19",
+          "oldprice": "30",
+          "color": "black",
+          "size": null,
+          "count": 2
+        }
+      ]
+    }
+  ]
+}
