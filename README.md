@@ -3,7 +3,7 @@ React GameHub is a comprehensive gaming platform inspired by PlayStation, offeri
 
 <p float="left">
 <img src="https://github.com/rajarshi0303/React-GameHub/assets/128988468/28901cc1-bdbe-4db7-90d0-80cce6f126b8" width="380" height="600" hspace="5" />
-<img src="https://github.com/rajarshi0303/React-GameHub/assets/128988468/cf4c2c35-bde8-42da-9853-10f61550d836" width="380" height="600" />
+<img src="https://github.com/rajarshi0303/React-GameHub/assets/128988468/f83e2b05-6d73-42aa-aba0-043cc028ba8c" width="350" height="600" />
 
 <img src="https://github.com/rajarshi0303/React-GameHub/assets/128988468/c3f8e068-4ccf-47f1-832a-3d3a445686b7" width="370" height="550"  hspace="5" />
 <img src="https://github.com/rajarshi0303/React-GameHub/assets/128988468/7a47eb49-cc3b-4f2b-b22d-07c13285044d" width="370" height="550"  />
@@ -11,6 +11,7 @@ React GameHub is a comprehensive gaming platform inspired by PlayStation, offeri
 <img src="https://github.com/rajarshi0303/React-GameHub/assets/128988468/e917c12b-6de1-4459-b13f-39474d2dd61e" width="400" height="550" hspace="5" />
 <img src="https://github.com/rajarshi0303/React-GameHub/assets/128988468/2edb5f60-65e3-45e1-8368-2ce00ec968c1" width="360" height="550"  />
 </p>
+
 
 
 ## 🚀 Features
