@@ -1,4 +1,4 @@
-# React GameHub
+# 🎮 React GameHub
 React GameHub is a comprehensive gaming platform inspired by PlayStation, offering a wide range of features for gamers and gaming enthusiasts. This project aims to provide a seamless experience for browsing games, playing online, shopping for gaming products, and staying updated with the latest gaming news.
 
 <p float="left">
